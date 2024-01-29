@@ -1,0 +1,9 @@
+from typing import Protocol
+
+class Coffee(Protocol):
+    def brew() -> None:
+        ...
+    def pour() -> None:
+        ...
+    def cost() -> int:
+        ...
