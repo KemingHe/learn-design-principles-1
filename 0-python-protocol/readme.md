@@ -1,4 +1,4 @@
-# Protocol, mypy, and pylint
+# Protocol, ..., mypy, and pylint
 
 
 ## How to use this example:
